@@ -1,4 +1,4 @@
 Tambahkan file txt baru dengan format
-- Bayu Kawe
-- Dimana Aja Bole
+- Bayu Wijaksana
+- Stiki Indonesia
 - wijaksanab@gmail.com
