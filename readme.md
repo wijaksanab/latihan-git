@@ -1,4 +1,4 @@
 Tambahkan file txt baru dengan format
-- Bayu Wijaksana
-- Stiki Indonesia
+- Bayu Wijaksana Putra
+- Stiki Indonesia 
 - wijaksanab@gmail.com
