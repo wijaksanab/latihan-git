@@ -1,4 +1,4 @@
 Tambahkan file txt baru dengan format
-- Nama
-- Asal Kampus
-- Email
+- Bayu Kawe
+- Dimana Aja Bole
+- wijaksanab@gmail.com
